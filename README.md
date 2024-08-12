@@ -84,3 +84,5 @@ The application will be available at http://localhost:5137.
 
 ## Contribution
 Contributions are welcome! Please fork the repository and create a pull request for any changes you'd like to make
+
+### The Project is not Responsive with small or medium devices this will be updated in future.
